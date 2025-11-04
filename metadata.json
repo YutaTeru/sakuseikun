@@ -1,0 +1,5 @@
+{
+  "name": "おもしろ長文作成　",
+  "description": "An application that generates custom English stories and exam questions for Japanese high school students based on user-provided text, a theme, and desired creativity level.",
+  "requestFramePermissions": []
+}
